@@ -1,2 +1,2 @@
-# hackerrank
-Interview Preparation Kit of Hackerrank
+# Hackerrank
+Solutions of interview preparation kit of Hackerrank
